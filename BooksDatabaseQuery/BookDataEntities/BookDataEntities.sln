@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookDataEntities", "BookDataEntities.csproj", "{037C4AE6-EDC0-4051-97F8-640E45678948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayBooksDatabase", "..\DisplayBooksDatabase\DisplayBooksDatabase.csproj", "{A46E0B5F-0FF7-48D4-88B1-1DE9D9E4CF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037C4AE6-EDC0-4051-97F8-640E45678948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037C4AE6-EDC0-4051-97F8-640E45678948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037C4AE6-EDC0-4051-97F8-640E45678948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037C4AE6-EDC0-4051-97F8-640E45678948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46E0B5F-0FF7-48D4-88B1-1DE9D9E4CF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46E0B5F-0FF7-48D4-88B1-1DE9D9E4CF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46E0B5F-0FF7-48D4-88B1-1DE9D9E4CF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46E0B5F-0FF7-48D4-88B1-1DE9D9E4CF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
